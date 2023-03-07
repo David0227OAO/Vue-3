@@ -1,0 +1,26 @@
+{
+    "person": [
+      {
+        "name": "ken",
+        "position": "student",
+        "account": "ken",
+        "password": "ken",
+        "cash": 1000
+      },
+      {
+        "name": "jim",
+        "position": "staff",
+        "account": "jim",
+        "password": "jim",
+        "cash": 1000
+      },
+      {
+        "name": "test",
+        "position": "manager",
+        "account": "111",
+        "password": "111",
+        "cash": 1000
+      }
+    ]
+  }
+  

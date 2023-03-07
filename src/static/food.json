@@ -1,0 +1,33 @@
+{
+    "foods": [
+      {
+        "name": "firechicken",
+        "foodtype": "fried",
+        "price": 100,
+        "quantity": 1,
+        "spicy": false
+      },
+      {
+        "name": "cookie",
+        "foodtype": "snack",
+        "price": 50,
+        "quantity": 1,
+        "spicy": false
+      },
+      {
+        "name": "fruit",
+        "foodtype": "snack",
+        "price": 50,
+        "quantity": 1,
+        "spicy": false
+      },
+      {
+        "name": "candy",
+        "foodtype": "snack",
+        "price": 50,
+        "quantity": 1,
+        "spicy": false
+      }
+    ]
+  }
+  

@@ -1,0 +1,17 @@
+{
+    "person": [
+      {
+        "name": "test",
+        "serial number": {
+          "AAA111": {
+            "cart": ["炸雞", "水果"],
+            "quantity": [1, 2]
+          }
+        }
+      },
+      {
+        "name": "hello"
+      }
+    ]
+  }
+  
